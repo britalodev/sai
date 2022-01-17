@@ -14,7 +14,7 @@
 	<name>sai</name>
 	<description>Sistema de Aventuras Instantaneas.</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 		<mapstruct.version>1.4.2.Final</mapstruct.version>
 		<org.projectlombok.version>1.18.16</org.projectlombok.version>
 	</properties>
